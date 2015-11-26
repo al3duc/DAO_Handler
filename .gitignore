@@ -67,3 +67,4 @@ $RECYCLE.BIN/
 *.classpath
 bin
 dist
+.settings
