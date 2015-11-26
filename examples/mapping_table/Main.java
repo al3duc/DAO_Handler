@@ -26,7 +26,7 @@ public class Main {
 			context_db.start();
 			Clientes clientesDAO= new Clientes(context_db);
 			
-			//Insertar en la en la tabla de clientes.
+			//Insertar en la tabla de clientes.
 			RowResult clienteRow= clientesDAO.getIntance_classBase();
 			clienteRow.setValue("id", "123");
 			clienteRow.setValue("Nombre", "Carlos Mesa");			
@@ -45,7 +45,7 @@ public class Main {
 			
 			
 			
-			//Actualizar en la en la tabla de clientes.
+			//Actualizar en la tabla de clientes.
 			
 	        clienteRow.setValue("id", "123");
 	        clienteRow.setValue("Nombre", "Carlos Mesa Agudelo");			
@@ -53,7 +53,7 @@ public class Main {
 			
 			
 			
-			//Insertar en la en la tabla de clientes.
+			//Insertar en la tabla de clientes.
 			RowResult clienteRow2= clientesDAO.getIntance_classBase();
 			clienteRow2.setValue("id", "222");
 			clienteRow2.setValue("Nombre", "Jose Miguel");			
@@ -72,7 +72,7 @@ public class Main {
 			
 			
 			
-			//Borrar en la en la tabla de clientes.									
+			//Borrar en la tabla de clientes.									
 			clientesDAO.delete(clienteRow2);
 			
 		} catch (Exception e) {
