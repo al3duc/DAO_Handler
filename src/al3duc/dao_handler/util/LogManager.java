@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package aleduc.dao_handler.util;
+package al3duc.dao_handler.util;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

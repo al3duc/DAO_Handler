@@ -1,7 +1,7 @@
 /**
  * 
  */
-package aleduc.dao_handler.util;
+package al3duc.dao_handler.util;
 
 import java.sql.Connection;
 import java.util.Map;

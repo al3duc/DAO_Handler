@@ -6,9 +6,9 @@ package mapping_table;
 import java.util.Iterator;
 import java.util.List;
 
-import aleduc.dao_handler.core.RowResult;
-import aleduc.dao_handler.core.Context_DAO;
-import aleduc.dao_handler.core.Field_DEF;
+import al3duc.dao_handler.core.Context_DAO;
+import al3duc.dao_handler.core.Field_DEF;
+import al3duc.dao_handler.core.RowResult;
 
 /**
  * @author Diego Duque

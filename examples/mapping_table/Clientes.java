@@ -3,10 +3,10 @@
  */
 package mapping_table;
 
-import aleduc.dao_handler.core.RowResult;
-import aleduc.dao_handler.core.Context_DAO;
-import aleduc.dao_handler.core.DAO_Handler;
-import aleduc.dao_handler.core.Interface_Instance_DAO;
+import al3duc.dao_handler.core.Context_DAO;
+import al3duc.dao_handler.core.DAO_Handler;
+import al3duc.dao_handler.core.Interface_Instance_DAO;
+import al3duc.dao_handler.core.RowResult;
 
 /**
  * @author Diego Duque

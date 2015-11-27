@@ -1,4 +1,4 @@
-package aleduc.dao_handler.util;
+package al3duc.dao_handler.util;
 
 import java.io.FileInputStream;
 import java.io.InputStream;

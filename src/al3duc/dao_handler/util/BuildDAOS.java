@@ -1,7 +1,7 @@
 /**
  * 
  */
-package aleduc.dao_handler.util;
+package al3duc.dao_handler.util;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -11,7 +11,7 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
-import aleduc.dao_handler.core.Context_DAO;
+import al3duc.dao_handler.core.Context_DAO;
 
 /**
  * @author Diego Duque

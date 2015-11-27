@@ -1,4 +1,4 @@
-package aleduc.dao_handler.core;
+package al3duc.dao_handler.core;
 
 public interface Interface_Instance_DAO {
 	/**

@@ -1,4 +1,4 @@
-package aleduc.dao_handler.util.mapping_metadata;
+package al3duc.dao_handler.util.mapping_metadata;
 
 import java.sql.ResultSetMetaData;
 

@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package aleduc.dao_handler.core;
+package al3duc.dao_handler.core;
 
 import java.util.List;
 import java.util.Map;

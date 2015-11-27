@@ -2,12 +2,12 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package aleduc.dao_handler.core;
+package al3duc.dao_handler.core;
 
-import aleduc.dao_handler.util.Handler_DB;
-import aleduc.dao_handler.util.LogManager;
-import aleduc.dao_handler.util.mapping_metadata.Mapper_metadata;
-import aleduc.dao_handler.util.mapping_metadata.ResultSetMetaData_Proxy;
+import al3duc.dao_handler.util.Handler_DB;
+import al3duc.dao_handler.util.LogManager;
+import al3duc.dao_handler.util.mapping_metadata.Mapper_metadata;
+import al3duc.dao_handler.util.mapping_metadata.ResultSetMetaData_Proxy;
 
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package aleduc.dao_handler.util.mapping_metadata;
+package al3duc.dao_handler.util.mapping_metadata;
 
 import java.sql.Connection;
 import java.sql.DatabaseMetaData;
@@ -11,7 +11,7 @@ import java.sql.ResultSetMetaData;
 import java.util.HashMap;
 import java.util.Map;
 
-import aleduc.dao_handler.util.Handler_DB;
+import al3duc.dao_handler.util.Handler_DB;
 
 /**
  * @author Diego Duque
